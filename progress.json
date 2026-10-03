@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:29:19.568Z",
+  "generated_at": "2026-10-03T23:30:43.839Z",
   "items": {
     "math:33": {
       "kind": "math",
@@ -22,6 +22,17 @@
       "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
       "first_solved_at": "2026-10-03T23:29:18.871Z",
       "last_pushed_at": "2026-10-03T23:29:18.871Z"
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-10-03T23:30:42.957Z",
+      "last_pushed_at": "2026-10-03T23:30:42.957Z"
     }
   }
 }
