@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:38:33.165Z",
+  "generated_at": "2026-10-03T23:41:07.813Z",
   "items": {
     "math:33": {
       "kind": "math",
@@ -77,6 +77,17 @@
       "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
       "first_solved_at": "2026-10-03T23:38:32.689Z",
       "last_pushed_at": "2026-10-03T23:38:32.689Z"
+    },
+    "math:23": {
+      "kind": "math",
+      "id": "23",
+      "title": "Law of Large Numbers and Central Limit Theorem",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/23",
+      "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
+      "first_solved_at": "2026-10-03T23:41:07.325Z",
+      "last_pushed_at": "2026-10-03T23:41:07.325Z"
     }
   }
 }
